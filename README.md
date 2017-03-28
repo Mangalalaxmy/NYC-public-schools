@@ -31,3 +31,12 @@ survey_all.txt -- data on surveys from all schools.
 survey_d75.txt -- data on surveys from New York City district 75.
 survey_all.txt and survey_d75.txt are in more complicated formats than the rest of the files. For now, we'll focus on reading in the csv files only, and then explore them.
 The Dataframe combined contains all of our data, and is what we'll be using in our analysis.
+
+
+Here are some potential next steps:
+
+Looking at class size and SAT scores.
+Figuring out the best area to live in based on school performance.
+If we combine this with a property values dataset, we could find the cheapest place where there are good school.
+Looking into the differences between parent, teacher, and student responses to surveys.
+Assigning a score to schools based on sat_score and other attributes.
